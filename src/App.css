@@ -1,0 +1,9 @@
+.content {
+  display: flex;
+  font-size: 2rem;
+}
+
+.content button {
+  font-size: 2rem;
+  padding: 0 2rem;
+}
